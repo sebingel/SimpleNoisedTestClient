@@ -1,0 +1,6 @@
+{
+	'Name': 'Noised.Plugins.Commands.CoreCommands.Play',
+	'Parameters': ["file:///C:/test/test.mp3"]
+}{
+	NOISEDEOC
+}
